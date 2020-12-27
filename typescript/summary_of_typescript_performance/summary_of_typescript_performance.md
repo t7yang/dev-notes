@@ -89,7 +89,7 @@ Serveral tools like `fork-ts-checker-webpack-plugin` or `awesome-typescript-load
 
 Why:
 
-Features like `const enum` and `namespace` needing to check other files inorder to generate output which make emit slower even more conflict with tool like Babel. `isolatedModules` can tell us which feature might not be supported.
+Features like `const enum` and `namespace` needing to check other files in order to generate output which make emit slower even more conflict with tool like Babel. `isolatedModules` can tell us which feature might not be supported.
 
 ### Investigating Issues
 
